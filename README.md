@@ -1,24 +1,36 @@
-Jogo da Velha (Android)
+# Jogo da Velha (Android)
 
 Aplicativo mobile desenvolvido no Android Studio com o objetivo de implementar o jogo da velha, utilizando conceitos fundamentais de desenvolvimento Android, lógica de programação e controle de estados.
 
-Sobre o projeto
+---
+
+## Sobre o projeto
 
 Este projeto foi desenvolvido para consolidar conhecimentos em desenvolvimento mobile, abordando a construção de interfaces com XML e a implementação da lógica de jogo no lado da aplicação.
 
 A aplicação permite a interação entre o jogador e a máquina, realizando validações de jogadas e identificando automaticamente condições de vitória ou empate.
 
-Funcionalidades
-Interface estruturada com XML
-Alternância de turnos entre jogador e máquina
-Validação de jogadas
-Verificação de condições de vitória
-Identificação de empate
-Tecnologias utilizadas
-Java
-Android Studio
-XML para definição de layout
-Controle de versão
+---
+
+## Funcionalidades
+
+- Interface estruturada com XML
+- Alternância de turnos entre jogador e máquina
+- Validação de jogadas
+- Verificação de condições de vitória
+- Identificação de empate
+
+---
+
+## Tecnologias utilizadas
+
+- Java
+- Android Studio
+- XML para definição de layout
+
+---
+
+## Controle de versão
 
 O desenvolvimento foi realizado inicialmente em uma branch separada, permitindo o isolamento das funcionalidades em desenvolvimento e facilitando o controle de alterações.
 
