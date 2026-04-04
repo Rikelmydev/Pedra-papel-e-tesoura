@@ -9,11 +9,14 @@ Este projeto foi desenvolvido para consolidar conhecimentos em desenvolvimento m
 A aplicação permite a interação entre o jogador e a máquina, realizando validações de jogadas e identificando automaticamente condições de vitória ou empate.
 
 Funcionalidades
-
 -Interface estruturada com XML
+
 -Alternância de turnos entre jogadores
+
 -Validação de jogadas
+
 -Verificação de condições de vitória
+
 -Identificação de empate
 
 Tecnologias utilizadas
