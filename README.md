@@ -1,6 +1,6 @@
-# Jogo da Velha (Android)
+# Pedra, papel e tesoura (Android)
 
-Aplicativo mobile desenvolvido no Android Studio com o objetivo de implementar o jogo da velha, utilizando conceitos fundamentais de desenvolvimento Android, lógica de programação e controle de estados.
+Aplicativo mobile desenvolvido no Android Studio com o objetivo de implementar o jogo Pedra, papel e tesoura, utilizando conceitos fundamentais de desenvolvimento Android, lógica de programação e controle de estados.
 
 ---
 
